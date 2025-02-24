@@ -1,0 +1,29 @@
+0 Tomato Yellow Leaf Curl Virus
+1 Tomato Septoria Leaf Spot
+2 Tomato Late Blight
+3 Tomato Healthy
+4 Tomato Early Blight
+5 Tomato bacterial spot
+6 Strawberry Leaf Scorch
+7 Strawberry Healthy
+8 Potato late blight
+9 potato healthy
+10 Potato Early Blight
+11 Peach Healthy
+12 Peach bacterial Spot
+13 Grape Leaf Blight
+14 Grape Healthy
+15 Grape esca
+16 Grape Black Rot
+17 Corn Northern leaf blight
+18 Corn healthy
+19 Corn Common Rust
+20 Corn Leaf Spot
+21 Cherry Powdery Mildew
+22 Cherry Healthy
+23 Bell Pepper Healthy
+24 Bell Pepper Bacterial Spot
+25 Apple Healthy
+26 Cedar Apple Rust
+27 Apple Black Rot
+28 Apple Scab
