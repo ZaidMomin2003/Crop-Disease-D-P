@@ -7,7 +7,7 @@ import random
 
 st.set_page_config(page_title="AI-Based Plant Disease Detector")
 
-genai.configure(api_key="AIzaSyAvrw_jsY86wJYi2GogdVTvVRMId0K16eQ")
+genai.configure(api_key="AIzaSyBTbpL_tjWCTl6ZDKlHUNFIYwk0irVAfac")
 model = genai.GenerativeModel("gemini-1.5-pro")
 
 @st.cache_resource
